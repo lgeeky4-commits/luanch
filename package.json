@@ -1,0 +1,14 @@
+{
+  "name": "ase-rp-three-site-launcher",
+  "private": true,
+  "version": "1.2.0",
+  "description": "ASE, Police RP and Border Patrol RP multi-site launcher",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js && node --check public/hub.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

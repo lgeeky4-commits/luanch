@@ -1,0 +1,24 @@
+{
+  "siteTitle": "ASE ROLEPLAY NETWORK",
+  "siteSubtitle": "CHOOSE YOUR GAME DIVISION",
+  "roles": {
+    "ase": {
+      "name": "ASE",
+      "subtitle": "CRIMSON COMMAND",
+      "path": "https://ase17.onrender.com",
+      "description": "Full 6-player chat, private rooms, map marks, reports, radio, calls and terminals."
+    },
+    "police": {
+      "name": "POLICE",
+      "subtitle": "OCA DISPATCH",
+      "path": "https://police4.onrender.com/",
+      "description": "4-player dispatch demo with incidents, map reports, unit requests, response routes and calls."
+    },
+    "border": {
+      "name": "BORDER CONTROL",
+      "subtitle": "FIELD OPERATIONS",
+      "path": "https://patrol4.onrender.com",
+      "description": "Lightweight 4-player checkpoint map, blocked zones, location notes and radio-style text chat."
+    }
+  }
+}
